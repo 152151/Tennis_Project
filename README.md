@@ -1,2 +1,2 @@
 # Tennis_Project
-This repository includes my code and dataset for my project.
+This repository includes my code and data set for my project.
